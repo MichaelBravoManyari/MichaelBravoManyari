@@ -11,7 +11,22 @@
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
+  <br>
   <img src="https://komarev.com/ghpvc/?username=MichaelBravoManyari&style=flat-square&color=blue" alt="Count"/>
+  <h1> Hi there 👋 </h1>
 </div>
-# Hi there 👋
+
+## 👨‍💻 About Me: 
 My name is Michael Bravo Manyari. I am an engineering student looking for my first job as an Android developer.
+
+## 🛠️ Languages and Tools: 
+
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Espresso](https://img.shields.io/badge/Espresso-6F5846?style=for-the-badge&logo=android&logoColor=white)
+![Robolectric](https://img.shields.io/badge/Robolectric-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit4&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
