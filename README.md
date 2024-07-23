@@ -17,7 +17,7 @@
 </div>
 
 ## 👨‍💻 About Me: 
-My name is Michael Bravo Manyari. I am an engineering student looking for my first job as an Android developer.
+My name is Michael Bravo Manyari. I am an engineering student, and my interest is focused on the development of Android applications and the creation of innovative solutions through programming and technology.
 
 ## 🛠️ Languages and Tools: 
 
